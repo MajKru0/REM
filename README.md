@@ -1,4 +1,4 @@
 # 📌 Elevation Data Analysis and Visualization
 
-![Geographic Plot](./result/agh.jpg)
+![AGH Logo](results/agh.jpg)
 
